@@ -114,3 +114,10 @@ Dockerize application
 Deploy to cloud (AWS / Render)
 Add async background processing
 ```
+
+## Author
+
+```
+Haseeb Gull
+Python Backend Engineer
+```
