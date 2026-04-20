@@ -64,7 +64,6 @@ API Endpoints
 
 ```
 POST /upload              Upload and index TXT document
-POST /documents           Add documents via JSON
 POST /query               Ask question (RAG pipeline)
 GET  /documents           List all documents
 DELETE /documents/<id>    Delete document from index
