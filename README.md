@@ -16,7 +16,6 @@ LLM-based question answering (GPT)
 Top source tracking for responses
 Document listing API
 Document deletion with index rebuild
-Production-style Flask backend
 ```
 
 ## Tech Stack
